@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nwanguma Emmanuel  
 
-📊 **Data Scientist | Aspiring AI & Machine Learning Engineer**  
+📊 **Data Scientist | Future AI & Machine Learning Engineer**  
 
 I’m a data-driven professional passionate about transforming raw data into actionable insights and intelligent solutions. With strong skills in **Python, SQL, Tableau and Machine Learning**, I aim to bridge the gap between data analysis and real-world decision-making through innovative AI applications.  
 
