@@ -12,7 +12,7 @@ I’m a data-driven professional passionate about transforming raw data into act
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras  
 - **Databases:** MySQL, BigQuery  
 - **Other Tools:** Git, Jupyter Notebook, Google Colab, PyCharm 
-- **Core Competencies:** Data Wrangling, Exploratory Data Analysis, Feature Engineering, Model Development, Predictive Analytics, Data Storytelling, MLOps (learning phase)  
+- **Core Competencies:** Data Wrangling, Exploratory Data Analysis, Feature Engineering, Model Development, Predictive Analytics, Data Storytelling, AI development and MLOps (learning phase)  
 
 ---
 
