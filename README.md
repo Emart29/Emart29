@@ -1,53 +1,41 @@
-# 👋 Hi, I'm Nwanguma Emmanuel  
+# 👋 Hi, I'm Nwanguma Emmanuel
 
-📊 **Data Scientist | Future AI & Machine Learning Engineer**  
+## Data Scientist | AI & ML Practitioner
 
-I’m a data-driven professional passionate about transforming raw data into actionable insights and intelligent solutions. With strong skills in **Python, SQL, Tableau and Machine Learning**, I aim to bridge the gap between data analysis and real-world decision-making through innovative AI applications.  
+I turn data into actionable insights and intelligent solutions. I build end-to-end data pipelines, perform rigorous statistical analysis, and deploy machine learning models that drive real-world decisions.
 
 ---
 
-### 🔧 **Technical Skills**
-- **Programming Languages:** Python, SQL  
-- **Data Analysis & Visualization:** Pandas, NumPy, Tableau, Quicksight , Matplotlib, Seaborn  
+## Core Competencies
+- **Programming & Data Analysis:** Python, SQL, Pandas, NumPy  
+- **Visualization & BI:** Tableau, Plotly, Seaborn, Streamlit, Quicksight  
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras  
-- **Databases:** MySQL, BigQuery  
-- **Other Tools:** Git, Jupyter Notebook, Google Colab, PyCharm 
-- **Core Competencies:** Data Wrangling, Exploratory Data Analysis, Feature Engineering, Model Development, Predictive Analytics, Data Storytelling, AI development and MLOps (learning phase)  
+- **Databases & Big Data:** MySQL, PostgreSQL, BigQuery  
+- **Other Tools:** Git, Jupyter Notebook, PyCharm, Google Colab  
+
+**Expertise:** Exploratory Data Analysis, Feature Engineering, Predictive Modeling, Forecasting, Causal Inference, A/B Testing, AI Integration, Data Storytelling, MLOps (learning)
 
 ---
 
-### 🚀 **Current Focus**
-- Building and deploying **end-to-end Machine Learning projects** using Python  
-- Expanding my **portfolio of Data Science and AI case studies**  
-- Learning **MLOps and model deployment techniques** for scalable AI systems  
+## Current Focus
+- Building production-ready ML pipelines and AI-powered analytics platforms  
+- Expanding a portfolio of decision-oriented Data Science projects  
+- Learning deployment and MLOps for scalable AI systems
 
 ---
 
-### ✍️ **Technical Articles & Study Blog**
-I share insights and learning experiences on my **Medium blog**, focusing on:
-- Data Science, AI, and Machine Learning concepts  
-- Project breakdowns and real-world applications  
-- Practical Python tips and study notes
-📰 **Read my articles on:** [Medium](https://medium.com/@Emar7)
+## Selected Projects
+- **[iOpsAI](https://github.com/Emart29/iOpsAI):** AI-powered analytics platform with automated insights and interactive dashboards  
+- **[ab-testing-framework](https://github.com/Emart29/ab-testing-framework):** Decision-focused A/B testing framework combining frequentist and Bayesian analysis  
+- **[sales-forecasting-dashboard](https://github.com/Emart29/sales-forecasting-dashboard):** Time series forecasting system for actionable business planning
 
 ---
 
-### 📚 **Professional Development**
-- Advancing my skills in **AI Engineering for Data Scientist** and **Applied Machine Learning**  
-- Exploring **Deep Learning** for predictive modeling and intelligent automation  
+## Let’s Connect
+- LinkedIn: [Emmanuel Nwanguma](https://www.linkedin.com/in/nwangumaemmanuel)  
+- GitHub: [Emart29](https://github.com/Emart29)  
+- Email: nwangumaemmanuel29@gmail.com
 
 ---
 
-### 💡 **Open to Collaborate On**
-- Data-driven solutions that solve real-world business challenges  
-- AI-powered automation and analytics projects  
-- Open-source data science and ML initiatives  
-
----
-
-### 📫 **Let’s Connect**
-[LinkedIn](https://www.linkedin.com/in/nwangumaemmanuel)
-
----
-
-⭐ *Always open to collaboration, learning opportunities, and innovative AI challenges.*
+*I focus on delivering insights that matter, experiments that drive decisions, and ML systems that impact business outcomes.*
