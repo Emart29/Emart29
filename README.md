@@ -1,53 +1,44 @@
-# 👋 Hi, I'm Nwanguma Emmanuel
+## 👋 Hi, I'm Nwanguma Emmanuel
 
-**Data Scientist | ML & AI Practitioner**  
-I turn complex data into **actionable business insights** and **intelligent solutions**. I specialize in building end-to-end systems—from data ingestion and feature engineering to modeling, forecasting, experimentation, and deployment—that help businesses make decisions with confidence.
-
----
-
-## 🚀 Core Skills
-- **Programming & Data Analysis:** Python, SQL, Pandas, NumPy  
-- **Visualization & BI:** Tableau, Plotly, Streamlit, Seaborn, Quicksight  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras  
-- **Databases & Big Data:** MySQL, PostgreSQL, BigQuery  
-- **Other Tools:** Git, Jupyter Notebook, PyCharm, Google Colab  
-
-**Specialties:** Predictive modeling, time series forecasting, A/B testing, causal inference, feature engineering, AI integration, MLOps (learning)
+🚀 **Machine Learning Engineer / Data Scientist**  
+I build **production-ready machine learning and AI systems** that turn data into measurable business impact.
 
 ---
 
-## 📌 Featured Projects
-
-### **[iOpsAI](https://github.com/Emart29/iOpsAI)**  
-AI-powered analytics platform delivering automated insights, interactive dashboards, and template-based workflows to accelerate business decisions.  
-**Tech Stack:** Python, FastAPI, Next.js, Groq LLM, PostgreSQL
-
-### **[ab-testing-framework](https://github.com/Emart29/ab-testing-framework)**  
-Decision-focused A/B testing framework combining frequentist and Bayesian analysis to guide statistically defensible product and business decisions.  
-**Highlights:** Sample size estimation, posterior probability calculations, actionable reporting.
-
-### **[sales-forecasting-dashboard](https://github.com/Emart29/sales-forecasting-dashboard)**  
-Time series forecasting system providing actionable sales predictions for inventory, staffing, and revenue planning. Uses Holt-Winters smoothing and interactive dashboards.  
-**Highlights:** Trend & seasonality analysis, business KPI visualization, scenario-based forecasts.
+### 🧠 What I Focus On
+- End-to-end ML systems: data → model → API → deployment
+- NLP & LLM systems (RAG, reasoning evaluation, sentiment analysis)
+- Model reliability, evaluation, and interpretability
+- Scalable ML workflows with FastAPI, MLflow, Docker, and cloud tools
 
 ---
 
-## 📈 Why it matters
-Most ML projects are descriptive. I focus on **decision-oriented data science**—making statistical and machine learning results **interpretable and actionable** for business stakeholders.
+### 🔧 Tech Stack
+**Languages:** Python, SQL  
+**ML & AI:** PyTorch, scikit-learn, NLP, LLMs, RAG, AI Agents  
+**MLOps:** FastAPI, MLflow, GitHub Actions (learning)  
+**Data & BI:** Pandas, NumPy, Tableau, Amazon QuickSight  
+**Cloud:** AWS, GCP, BigQuery
 
 ---
 
-## 🔗 Connect with me
-- LinkedIn: [Emmanuel Nwanguma](https://www.linkedin.com/in/nwangumaemmanuel)  
-- GitHub: [Emart29](https://github.com/Emart29)  
-- Email: nwangumaemmanuel29@gmail.com  
+### ⭐ Featured Projects
+- 🧠 **RAG Document Analyzer**  
+  Production-ready RAG system for document Q&A using FastAPI, React, ChromaDB, and LLMs  
+  👉 https://github.com/Emart29/rag-document-analyzer
 
-*I build systems and analyses that turn data into decisions, ensuring insights are reliable, measurable, and tied to business outcomes.*
+- 🫀 **Heart Disease Risk Prediction System**  
+  End-to-end ML system with FastAPI, SHAP explainability, MLflow tracking, and Docker  
+  👉 https://github.com/Emart29/Heart-Disease-Prediction
+
+- 🔍 **LLM Reasoning Evaluation Framework**  
+  Research framework for diagnosing multi-step reasoning failures in large language models  
+  👉 https://github.com/Emart29/llm-reasoning-eval
 
 ---
 
-## 🌟 GitHub Stats
+### 📫 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/nwangumaemmanuel  
+- Medium: https://medium.com/@Emar7
 
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emart29&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emart29&layout=compact&theme=radical)
+⭐ I’m open to collaboration on production ML systems, AI products, data-driven applications and real-world automation systems..
