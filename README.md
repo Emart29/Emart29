@@ -15,7 +15,7 @@
 
 ## 🧭 What I'm About
 
-I sit at the intersection of **machine learning engineering** and **product thinking** — turning raw data into reliable, explainable, production-ready AI systems. Whether it's a RAG pipeline answering questions over complex documents, an ML model predicting health risk, or an LLM evaluation framework catching reasoning failures before they reach users — I focus on building things that **actually work in the real world**.
+Most ML projects die in notebooks. Mine don't. I sit at the intersection of machine learning engineering and product thinking — taking data from raw to reliable, whether that means a RAG pipeline answering questions over complex documents, a ML model predicting health risk, fraud, or churn, or an LLM evaluation framework catching reasoning failures before they reach users. I build things that actually work outside the lab.
 
 > *"A model that can't be deployed is just a very expensive experiment."*
 
